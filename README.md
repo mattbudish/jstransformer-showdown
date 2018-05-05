@@ -11,9 +11,9 @@
 ## API
 
 ```js
-var md = require('jstransformer')(require('jstransformer-showdown'));
+var sd = require('jstransformer')(require('jstransformer-showdown'));
 
-md.render('# Hello World!').body;
+sd.render('# Hello World!').body;
 //=> '<h1 id="helloworld">Hello World!</h1>'
 ```
 
