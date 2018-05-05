@@ -21,6 +21,9 @@
     "url": "https://github.com/mattbudish/jstransformer-showdown/issues"
   },
   "homepage": "https://github.com/mattbudish/jstransformer-showdown#readme",
+  "engines": {
+    "node": ">=6"
+  },
   "devDependencies": {
     "test-jstransformer": "^1.0.2"
   },
