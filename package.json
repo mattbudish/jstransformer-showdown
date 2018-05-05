@@ -1,0 +1,30 @@
+{
+  "name": "jstransformer-showdown",
+  "version": "0.0.1",
+  "description": "Showdown support for JSTransformers.",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbudish/jstransformer-showdown.git"
+  },
+  "keywords": [
+    "jstransformer",
+    "showdown"
+  ],
+  "author": "Matt Budish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattbudish/jstransformer-showdown/issues"
+  },
+  "homepage": "https://github.com/mattbudish/jstransformer-showdown#readme",
+  "devDependencies": {
+    "test-jstransformer": "^1.0.2"
+  },
+  "dependencies": {
+    "showdown": "^1.8.6"
+  }
+}
