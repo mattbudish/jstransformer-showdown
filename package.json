@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-showdown",
-  "version": "0.0.3",
+  "version": "1.0.0-alpha",
   "description": "Showdown support for JSTransformers.",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "url": "git+https://github.com/mattbudish/jstransformer-showdown.git"
   },
   "keywords": [
+    "markdown",
     "jstransformer",
     "showdown"
   ],
@@ -28,6 +29,6 @@
     "test-jstransformer": "^1.0.2"
   },
   "dependencies": {
-    "showdown": "^1.8.6"
+    "showdown": "github:mattbudish/showdown"
   }
 }
