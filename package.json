@@ -26,9 +26,9 @@
     "node": ">=6"
   },
   "devDependencies": {
-    "test-jstransformer": "^1.0.2"
+    "test-jstransformer": "^1.0.3"
   },
   "dependencies": {
-    "showdown": "github:mattbudish/showdown"
+    "showdown": "github:showdownjs/showdown#greenkeeper/yargs-13.2.2"
   }
 }
